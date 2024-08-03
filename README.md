@@ -13,4 +13,6 @@
 * Favoriler Listesi Oluşturma
 * Fvoriler Listesini Düzenleme
 
-![image](https://github.com/user-attachments/assets/44ce75d1-b922-4f29-9332-b47acac62623)
+#### Ekran Görüntüsü
+![image](https://github.com/user-attachments/assets/d8b51f35-8917-4bc8-b5ee-a96b3cc21f0e)
+
